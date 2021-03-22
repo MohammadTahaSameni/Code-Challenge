@@ -4,10 +4,12 @@
 Java 11, Maven
 
 **Compiling**<br/>
-Use the following command to work with project: *mvn clean install*
+Use the following command to work with project:<br/>
+***mvn clean install***
 
 **Execute**<br/>
-Use the following command to run with project: *mvn spring-boot:run*
+Use the following command to run with project:<br/>
+***mvn spring-boot:run***
 
 **Usage**<br/>
 All services will be availabe on: localhost:8080
