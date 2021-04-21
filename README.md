@@ -1,4 +1,4 @@
-# Solactive Code Challenge - MohammadTaha Sameni
+# Code Challenge - MohammadTaha Sameni
 
 **Requirements**<br/>
 Java 11, Maven
